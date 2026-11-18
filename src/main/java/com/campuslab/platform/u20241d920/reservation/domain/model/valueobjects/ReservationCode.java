@@ -1,4 +1,4 @@
-package com.campuslab.platform.u20241d920.campusmanagement.domain.model.valueobjects;
+package com.campuslab.platform.u20241d920.reservation.domain.model.valueobjects;
 
 public record ReservationCode(String code) {
 
