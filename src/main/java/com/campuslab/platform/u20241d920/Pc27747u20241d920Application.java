@@ -2,7 +2,9 @@ package com.campuslab.platform.u20241d920;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
+@EnableJpaAuditing
 @SpringBootApplication
 public class Pc27747u20241d920Application {
 
