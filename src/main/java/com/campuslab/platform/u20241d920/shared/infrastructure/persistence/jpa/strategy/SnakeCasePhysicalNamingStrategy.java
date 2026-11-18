@@ -1,4 +1,4 @@
-package com.campuslab.platform.u20241d920.shared.infrastructure.persistence.jpa;
+package com.campuslab.platform.u20241d920.shared.infrastructure.persistence.jpa.strategy;
 
 import org.hibernate.boot.model.naming.Identifier;
 import org.hibernate.boot.model.naming.PhysicalNamingStrategy;
